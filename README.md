@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/manash" target="blank"><img src="https://img.shields.io/twitter/follow/manash?logo=twitter&style=for-the-badge" alt="manash" /></a> </p>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently working as a **Dot Net Developer**
 
 - 📫 How to reach me **manash.protim.borah087@gmail.com**
 
